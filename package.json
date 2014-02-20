@@ -1,0 +1,13 @@
+{
+  "name": "yields-approximate-time",
+  "description": "approximate human readable time",
+  "version": "0.0.1",
+  "keywords": [
+    "approximate",
+    "time",
+    "conversion"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
